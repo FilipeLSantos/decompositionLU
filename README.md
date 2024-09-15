@@ -1,2 +1,2 @@
 # Balanço de Massas
-Implementação do codigo em SciLab de balanço de massas, para análise de poluição de interiores.
+Implementação do código em SciLab da decomposição LU, para análise de poluição de interiores.
